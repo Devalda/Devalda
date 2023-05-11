@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Devalda
-- 👀 I’m interested in simple life
-- 🌱 I’m currently learning how to sleep well
-- 📫 How to reach me : brian@devalda.site
-
-you can contact me if you want to waste your time :)
+- This is my personal github , dont expect something good from it
+- im trying to sleep well , don't pull request on midnight 
+- How to reach me if you want to waste ur time : brian@devalda.site
+you can contact me if you want to waste your time :D
 
 <!---
 Devalda/Devalda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
